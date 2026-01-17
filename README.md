@@ -1,7 +1,7 @@
 
   # Responsive LMS Exam Mockup
 
-  This is a code bundle for Responsive LMS Exam Mockup. The original project is available at https://www.figma.com/design/Atowq8Hrr6Cc1zNJstFEOn/Responsive-LMS-Exam-Mockup.
+  This is a code bundle for Responsive LMS Exam Mockup
 
   ## Running the code
 
